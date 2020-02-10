@@ -1,2 +1,3 @@
-Tmp/todo.txt
-Tmp/*
+tmp/todo.txt
+tmp/*
+*.txt
